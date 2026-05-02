@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Data files
+data/
+
+# Node modules
+node_modules/
+
+# Logs
+logs/
+
+# Editor files
